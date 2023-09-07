@@ -1,2 +1,3 @@
-"BlocksMC",
-"Hypixel"
+
+"blocksmc",
+"hypixel"
